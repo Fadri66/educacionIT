@@ -1,0 +1,78 @@
+body {
+    background-color: #EDECE9;
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+    font-size: 17px;
+}
+
+nav {
+    color: black;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.barranav {
+    color: #EF6D24;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+a.nav {
+    color: #EF6D24;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 42px;
+}
+
+h2 {
+    color: #E1D2CA;
+    background-color: #775548;
+    font-size: 24px;
+}
+
+a.home {
+    color: #EF6D24;
+    font-size: 24px;
+    font-weight: 600;
+    float: right;
+}
+
+.yellow {
+    color: #D7B03B;
+}
+
+a.pagina{
+    color: #EF6D24;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.nacion{
+    color: #4BB2CB;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.linknaranja {
+    color: #EF6D24;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+img {
+    width: 100%;
+}
+
+span {
+    color: #EF6D24;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+iframe {
+    width: 100%;
+}
